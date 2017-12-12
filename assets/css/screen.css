@@ -449,7 +449,7 @@ The knock-on effect of this is ugly browser-scroll bars at the bottom, so 80px o
 }
 
 .post-card-excerpt {
-    font-family: nanum, Georgia, serif;
+    font-family: 'Nanum Square',nanum , Georgia, serif;
 }
 
 .post-card-meta {
