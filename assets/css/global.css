@@ -19,7 +19,7 @@
 /* Reset
 /* ---------------------------------------------------------- */
 @font-face {
-    font-family: "Gidole-Regular";
+    font-family: "nanum";
     src: url('../assets/fonts/NanumSquareR.ttf') format('truetype');
 }
 html,
@@ -34,8 +34,10 @@ h2,
 h3,
 h4,
 h5,
-h6,
-p,
+h6
+p{
+    font-family: nanum
+}
 blockquote,
 pre,
 a,
@@ -133,7 +135,7 @@ img {
 }
 html {
     box-sizing: border-box;
-    font-family: sans-serif;
+    font-family: nanum, sans-serif;
 
     -ms-text-size-adjust: 100%;
     -webkit-text-size-adjust: 100%;
@@ -203,6 +205,7 @@ textarea {
     margin: 0; /* 3 */
     color: inherit; /* 1 */
     font: inherit; /* 2 */
+    font-family: nanum;
 }
 button {
     overflow: visible;
