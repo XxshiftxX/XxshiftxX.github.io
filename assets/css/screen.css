@@ -29,7 +29,7 @@ production stylesheet in assets/built/screen.css
 @import "global.css";
 @font-face {
     font-family: "nanum";
-    src: url('../assets/fonts/NanumSquareR.ttf') format('truetype');
+    src: url('../fonts/NanumSquareR.ttf') format('truetype');
 }
 
 body {
