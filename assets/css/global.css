@@ -18,7 +18,10 @@
 
 /* Reset
 /* ---------------------------------------------------------- */
-
+@font-face {
+    font-family: "Gidole-Regular";
+    src: url('../assets/fonts/NanumSquareR.ttf') format('truetype');
+}
 html,
 body,
 div,
