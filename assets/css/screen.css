@@ -27,13 +27,10 @@ production stylesheet in assets/built/screen.css
 /* 1. Global - Set up the things
 /* ---------------------------------------------------------- */
 @import "global.css";
-@font-face {
-    font-family: "nanum";
-    src: url('../fonts/NanumSquareR.ttf') format('truetype');
-}
 
 body {
     background: #f4f8fb;
+    font-family: 'Nanum Square';
 }
 
 .img {
