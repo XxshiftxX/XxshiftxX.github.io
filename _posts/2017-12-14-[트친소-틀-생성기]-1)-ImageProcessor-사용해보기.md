@@ -2,7 +2,7 @@
 layout: post
 current: post
 navigation: true
-title: [트친소 틀 생성기] 1. ImageProcessor 사용해보기
+title: "[트친소 틀 생성기] 1) ImageProcessor 사용해보기"
 date: 2017-12-14 12:18:00
 tags: fiction
 class: post-template
