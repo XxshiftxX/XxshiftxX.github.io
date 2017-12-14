@@ -4,7 +4,7 @@ current: post
 navigation: true
 title: "[트친소 틀 생성기] 1) ImageProcessor 사용해보기"
 date: 2017-12-14 12:18:00
-tags: fiction
+tags: [트친소 틀 생성기]
 class: post-template
 author: shift
 categories: 트친소 틀 생성기
